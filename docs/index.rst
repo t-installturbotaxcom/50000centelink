@@ -10,7 +10,7 @@ How to Apply for the $50,000 Centrelink Bereavement Payment: Step-by-Step Guide
    :width: 350px
    :align: center
    :height: 100px
-   :alt: apply now
+   
    :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-50000-centrelink-bereavement-payment%2F
 
 .. raw:: html
