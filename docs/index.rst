@@ -6,6 +6,10 @@ How to Apply for the $50,000 Centrelink Bereavement Payment: Step-by-Step Guide
    :google-site-verification: A_NQsyCuasCJRK7IhYwTsyZ9qBh4bGquPfK0_6sAXkk
    :description: Learn how to apply for the $50,000 Centrelink Bereavement Payment. Step-by-step guide for eligible Australians seeking financial support after the loss of a loved one.
 
+<p align="center">
+  <img src="https://example.com/my-banner.png" alt="Banner" width="100%"/>
+</p>
+
 .. image:: applynow.png
    :width: 250px
    :align: center
